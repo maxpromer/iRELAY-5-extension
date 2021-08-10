@@ -7,6 +7,8 @@
     icon: "/static/icon.png", // Category icon
     color: "#2ECC71", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
+        "irelay_5_set",
+        "irelay_5_set_all",
         {
             xml:
                `<block type="irelay_5_on_auto_off">
